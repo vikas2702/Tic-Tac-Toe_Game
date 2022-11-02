@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+div .cell {
+  border: 1px solid white;
+  width: 80px;
+  height: 80px;
+  display: flex;
+  font-size: 30px;
+  justify-content: center;
+  color: white;
+  background-color: rgb(40, 165, 79);
+  align-items: center;
+}
+
+div .container{
+    /* display: flex;
+    justify-content: center; */
+}
+
+div .box{
+    display: flex;
+}
+
+div .win {
+    font-size: 24px;
+}
